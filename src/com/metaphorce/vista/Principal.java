@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class Principal {
     public static void main(String[] args) {
+        System.out.println("Nuevo funcionalidad buscar por nombre");
         int opcion = 0;
         int contadorId = 6;
         System.out.println("Skill challenge 1");
